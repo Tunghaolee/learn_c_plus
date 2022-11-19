@@ -1,6 +1,6 @@
-#include <stdio.h>
-
-int main()
+#include <iostream>  
+using namespace std; 
+int main(void)
 {
     int x, y ;
     
@@ -19,6 +19,6 @@ int main()
     printf("x=y\n");
         
     }
-    
+    cout<<"Hello World!";
     return 0;
 }
